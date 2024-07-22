@@ -1,7 +1,5 @@
-import "./App.css";
-
 function App() {
-  return <></>;
+  return <p className="font-bold text-lg">NETFLIX</p>;
 }
 
 export default App;
