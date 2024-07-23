@@ -5,28 +5,28 @@
 @font-face {
   font-family: "NetflixSans";
   src:
-    local("NetFlixSans-Regular"),
-    url(./fonts/NetFlixSans-Regular) format("woff2");
+    local("NetflixSans-Regular"),
+    url("./fonts/NetflixSans-Regular.woff2") format("woff2");
 }
 @font-face {
   font-family: "NetflixSans";
   src:
     local("NetFlixSans-Bold"),
-    url(./fonts/NetFlixSans-Bold) format("woff2");
+    url("./fonts/NetflixSans-Bold.woff2") format("woff2");
   font-weight: bold;
 }
 @font-face {
   font-family: "NetflixSans";
   src:
     local("NetFlixSans-Medium"),
-    url(./fonts/NetFlixSans-Medium) format("woff2");
+    url("./fonts/NetflixSans-Medium.woff2") format("woff2");
   font-weight: 600;
 }
 @font-face {
   font-family: "NetflixSans";
   src:
     local("NetFlixSans-Light"),
-    url(./fonts/NetFlixSans-Light) format("woff2");
+    url("./fonts/NetflixSans-Light.woff2") format("woff2");
   font-weight: 300;
 }
 body {
